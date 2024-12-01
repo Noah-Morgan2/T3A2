@@ -26,6 +26,8 @@ The Habit Tracker is designed to cater to a diverse audience ranging from studen
 - **Testing**: Integrated with Cypress for robust end-to-end testing, ensuring that all features function as expected under various conditions and providing a seamless and bug-free user experience.
 - **Version Control**: Managed through Git, with repositories hosted on GitHub to facilitate version tracking, collaboration, and code integrity.
 
+[Github](https://github.com/Noah-Morgan2/T3A2)
+
 ************
 
 ## Data Flow Diagram
