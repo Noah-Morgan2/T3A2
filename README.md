@@ -131,3 +131,8 @@ The Habit Tracker is designed to cater to a diverse audience ranging from studen
 ![T17](<docs/Archive/Screenshot 2024-12-01 at 5.37.34 PM.png>)
 *************
 
+## Link to Github
+
+[GitHub](https://github.com/Noah-Morgan2/T3A2)
+
+## Link to Website
