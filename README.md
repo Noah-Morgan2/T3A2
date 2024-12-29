@@ -146,7 +146,7 @@ The Habit Tracker is designed to cater to a diverse audience ranging from studen
 [GitHub](https://github.com/Noah-Morgan2/T3A2)
 
 ## Link to Website
-
+[Netlify](https://habittckr.netlify.app)
 
 ## Slide Deck (that i did not present)
 
